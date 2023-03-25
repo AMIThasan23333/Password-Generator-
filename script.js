@@ -42,7 +42,7 @@ const generatePassword = () => {
     password += charSet.substring(randomNumber, randomNumber + 1);
   }
 
-  passwordEl.innerText = password;
+  passwordEl.value = password;
 };
 
 const handleViewPassword = () => {
