@@ -20,6 +20,8 @@ charCount  is already a number do not have to use charCount.length
 
   passwordEl.innerText = password; should be   passwordEl.value bcz this is an input element 
 
+  using setAttribute instead of AddAttribute
+
 
 
 
