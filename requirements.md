@@ -7,3 +7,9 @@
 5. A alert should appear after clicking on "Copy to clipboard" informing that the action was successful
 6. Regenerate button should be able to regenerate a new password with the same given length.
 7. User can toggle between raw text and hidden text in password section.
+
+
+problem 
+
+giving class in html accessing it usuing id 
+
