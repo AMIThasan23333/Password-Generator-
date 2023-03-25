@@ -13,3 +13,16 @@ problem
 
 giving class in html accessing it usuing id 
 
+accesing getElement("char-count"),  not accessing  getElement("char-count").innerText
+
+charCount  is already a number do not have to use charCount.length
+
+
+  passwordEl.innerText = password; should be   passwordEl.value bcz this is an input element 
+
+
+
+
+
+
+
